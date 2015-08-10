@@ -1,0 +1,31 @@
+h1{
+  font-weight: 700;
+}
+
+body{
+  width:500px;
+  margin:0 auto;
+}
+
+.input{
+  display:inline-block;
+  margin-bottom:10px;
+}
+form{
+  width:500px;
+  text-align: center;
+}
+
+#submit{
+  display:block;
+  margin:0 auto;
+}
+
+#googleMap{
+  margin-top:10px;
+}
+
+footer{
+  width:100px;
+  margin:10px auto;
+}
